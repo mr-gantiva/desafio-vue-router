@@ -3,7 +3,7 @@
 Este proyecto es una aplicación web desarrollada con Vue.js que implementa enrutamiento utilizando Vue Router. El objetivo principal es mostrar una lista de productos y una página de contacto, con la capacidad de navegar entre las vistas de manera eficiente.
 
 # Demo
-Puedes ver una prueba de la aplcación [aquí]('https://desafio-vue-router.netlify.app/')
+Puedes ver una prueba de la aplcación [aquí](https://desafio-vue-router.netlify.app/)
 
 ## Características
 
