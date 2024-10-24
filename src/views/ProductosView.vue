@@ -15,7 +15,7 @@ const props = defineProps({
 
 <template>
   <section class="container product__container">
-    <h1 class="text-center">Productos</h1>
+    <h1 class="text-center">Los Mejores Productos</h1>
 
     <div class="row">
       <ProductCard v-for="producto in productos" :key="producto.title" :producto="producto"></ProductCard>
